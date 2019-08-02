@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="icon">Rzethon.png</file>
+        <file alias="ok">OK.png</file>
+        <file alias="w">W.png</file>
+        <file alias="a">A.png</file>
+    </qresource>
+</RCC>
